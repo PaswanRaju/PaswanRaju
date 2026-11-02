@@ -37,6 +37,12 @@ CS junior at UT Arlington (Data Science minor), currently a Student Technical As
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaswanRaju&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PaswanRaju&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub trophies" />
+</div>
+
 ### 🎉 Fun Fact
 
 I trained a model that catches 28/28 faults with 0% false alarms — still can't train myself to sleep before midnight. ☕
